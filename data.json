@@ -539,22 +539,215 @@
                                 "width": "30%",
                                 "action": [
                                     {
-                                        "img": "img/credit/Title.jpg",
+                                        "img": "img/41/41.jpg",
+                                        "dataText": [
+                                            {
+                                                "text": "img/41/41.png"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "img": "img/42/42.jpg",
+                                        "dataText": [
+                                            {
+                                                "text": "img/42/42.png"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "img": "img/43/43.jpg",
                                         "clickable": true,
                                         "dataText": [
                                             {
-                                                "text": "img/action/Credit- Home.png",
-                                                "x": "20%",
-                                                "y": "80%",
-                                                "width": "30%",
-                                                "goto": "home"
+                                                "text": "img/43/43.png"
                                             },
                                             {
-                                                "text": "img/action/Credit- Kembali.png",
-                                                "x": "50%",
-                                                "y": "80%",
+                                                "text": "img/43/Bantu Nanda.png",
+                                                "x": "8%",
+                                                "y": "40%",
+                                                "width": "20%",
+                                                "action": [
+                                                    {
+                                                        "img": "img/44/44.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/44/44.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/45/45.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/45/45.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/46/46.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/46/46.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/47/47.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/47/47.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/48/48.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/48/48.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/49/49.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/49/49.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/50/50.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/50/50.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/credit/Title.jpg",
+                                                        "clickable": true,
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/action/Credit- Home.png",
+                                                                "x": "20%",
+                                                                "y": "80%",
+                                                                "width": "30%",
+                                                                "goto": "home"
+                                                            },
+                                                            {
+                                                                "text": "img/action/Credit- Kembali.png",
+                                                                "x": "50%",
+                                                                "y": "80%",
+                                                                "width": "30%",
+                                                                "goto": "first"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "img/43/Cerita ayah ibu.png",
+                                                "x": "8%",
+                                                "y": "58%",
                                                 "width": "30%",
-                                                "goto": "first"
+                                                "action": [
+                                                    {
+                                                        "img": "img/51/51.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/51/51.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/52/52.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/52/52.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/credit/Title.jpg",
+                                                        "clickable": true,
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/action/Credit- Home.png",
+                                                                "x": "20%",
+                                                                "y": "80%",
+                                                                "width": "30%",
+                                                                "goto": "home"
+                                                            },
+                                                            {
+                                                                "text": "img/action/Credit- Kembali.png",
+                                                                "x": "50%",
+                                                                "y": "80%",
+                                                                "width": "30%",
+                                                                "goto": "first"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "text": "img/43/Sahabat.png",
+                                                "x": "8%",
+                                                "y": "78%",
+                                                "width": "30%",
+                                                "action": [
+                                                    {
+                                                        "img": "img/53/53.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/53/53.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/54/54.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/54/54.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/55/55.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/55/55.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/56/56.jpg",
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/56/56.png"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "img": "img/credit/Title.jpg",
+                                                        "clickable": true,
+                                                        "dataText": [
+                                                            {
+                                                                "text": "img/action/Credit- Home.png",
+                                                                "x": "20%",
+                                                                "y": "80%",
+                                                                "width": "30%",
+                                                                "goto": "home"
+                                                            },
+                                                            {
+                                                                "text": "img/action/Credit- Kembali.png",
+                                                                "x": "50%",
+                                                                "y": "80%",
+                                                                "width": "30%",
+                                                                "goto": "first"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
